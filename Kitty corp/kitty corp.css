@@ -1,0 +1,29 @@
+img{
+    text-align:center;
+}
+button{
+  width:400px;
+  height:240px;
+    background-image:url(http://images.boomsbeat.com/data/images/full/44019/puppy-wink_1-jpg.jpg);
+}
+
+#clickMe{
+  font-family:Verdana;
+  color:yellow;
+  font-size:60px;
+}
+#catfood{
+  font-family:Verdana;
+  color:yellow;
+  font-size:50px;
+}
+#navbar{
+    text-align:center;
+}
+
+#navbar li{
+    display:inline-block;
+    border: 2px solid black;
+    padding: 5px;
+}
+    

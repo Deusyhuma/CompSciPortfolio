@@ -1,0 +1,18 @@
+li{
+    color:red;
+    
+    }
+    body{
+        background-color:green;
+        
+    }
+#navbar{
+    text-align:center;
+}
+
+#navbar li{
+    display:inline-block;
+    border: 2px solid black;
+    padding: 5px;
+    
+}

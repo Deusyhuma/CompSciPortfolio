@@ -1,0 +1,24 @@
+h2 {
+    text-align:center;
+    background-color:red;
+}
+
+#image {
+    height:50%;
+    width:50%;
+}
+#navbar{
+    text-align:center;
+}
+
+#navbar li{
+    display:inline-block;
+    border: 2px solid black;
+    padding: 5px;
+    
+}
+body{
+    Background-image:url("http://www.antonoffplus.com/wp-content/uploads/2013/10/background1.jpg");
+    color:white;
+    
+}
